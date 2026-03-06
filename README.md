@@ -27,7 +27,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 [![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JeffersonFreitas22&layout=compact&theme=dark)](https://github.com/JeffersonFreitas22/github-readme-stats) 
   
-![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=JeffersonFreitas22&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true) 
+![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=JeffersonFreitas22&bg_color=0D1117&color=1E3A8A&line=1E3A8A&point=1E3A8A&area=true&hide_border=true)
   
 
 </div>
