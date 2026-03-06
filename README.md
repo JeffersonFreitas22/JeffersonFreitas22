@@ -28,8 +28,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonFreitas22
-&layout=compact)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonFreitas22&layout=compact&theme=tokyonight)
 
   <a href="https://github.com/mari4souza/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JeffersonFreitas22
