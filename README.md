@@ -38,6 +38,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://raw.githubusercontent.com/yoBiro/yoBiro/744c7c1ca6ffac84f9db3b0cf941ab483a6aad1e/sql-server.svg)" height="35"/>
 
 </p>
 
