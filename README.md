@@ -47,7 +47,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeffersonFreitas22&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true"/>
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JeffersonFreitas22&layout=compact&theme=dark)](https://github.com/JeffersonFreitas22/github-readme-stats)
 
 </p>
 
