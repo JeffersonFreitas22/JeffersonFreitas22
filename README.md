@@ -12,9 +12,17 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 <p align="center">
   
-[![Github](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7F3FBF)](https://github.com/JeffersonFreitas22)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=7F3FBF)](mailto:jeff.erson.meyt@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=7F3FBF)](https://www.instagram.com/jfzkk_/)
+<a href="https://github.com/JeffersonFreitas22">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=7F3FBF"/>
+</a>
+
+<a href="mailto:jeff.erson.meyt@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=7F3FBF"/>
+</a>
+
+<a href="https://www.instagram.com/jfzkk_/">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=7F3FBF"/>
+</a>
 
 </p>
 
@@ -33,7 +41,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 ---
 
-<h3 align="center">Estatísticas</h3>
+<h3 align="center">Linguagens mais usadas</h3>
 
 <p align="center">
 
@@ -47,7 +55,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 <p align="center">
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JeffersonFreitas22&layout=compact&theme=dark)](https://github.com/JeffersonFreitas22/github-readme-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JeffersonFreitas22&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true"/>
 
 </p>
 
