@@ -1,4 +1,4 @@
-## Hi there 👋
+![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **JeffersonFreitas22/JeffersonFreitas22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
