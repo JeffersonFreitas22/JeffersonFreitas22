@@ -1,3 +1,5 @@
+<div align="center">
+
 <h1 align="center">Jefferson Freitas</h1>
 
 <p align="center">
@@ -71,3 +73,5 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 </picture>
 
 </p>
+
+</div>
