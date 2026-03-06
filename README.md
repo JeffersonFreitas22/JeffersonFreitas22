@@ -19,9 +19,16 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
   <img width="8" />
+#
+
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JeffersonFreitas22&layout=compact&theme=dark)](https://github.com/JeffersonFreitas22/github-readme-stats) 
+  
+![Gráfico de atividades](https://github-readme-activity-graph.vercel.app/graph?username=JeffersonFreitas22&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true) 
+  
 
 
 
+#
 
 
 
