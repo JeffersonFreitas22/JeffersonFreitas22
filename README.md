@@ -47,7 +47,7 @@ Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções i
 
 <p align="center">
 
-[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JeffersonFreitas22&layout=compact&theme=dark)](https://github.com/JeffersonFreitas22/github-readme-stats)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JeffersonFreitas22&layout=compact&theme=tokyonight)](https://github.com/JeffersonFreitas22/github-readme-stats)
 
 </p>
 
