@@ -4,7 +4,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeffersonFreitas22)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-for-the-badge=microsoft-outlook&logoColor=FF0000&color:FFF)](mailto:jeff.erson.meyt@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-for-the-badge=microsoft-outlook&logoColor=white)](mailto:jeff.erson.meyt@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF0000&color:FFF)](https://www.instagram.com/jfzkk_/)
 
 
